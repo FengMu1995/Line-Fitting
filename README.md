@@ -1,4 +1,4 @@
-# Line-Fitting
+# Line-Fitting-formula-derivation
 The method aimed to fit line's general format Ax+By+C=0 with least-square algorithm.
 
 In most of cases, people are used to fit y=kx+b that slope format.
